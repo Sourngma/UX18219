@@ -187,7 +187,7 @@
   h2.well {
     background: linear-gradient(to bottom, #ccffff 0%, #006666 100%);
     color:white;
-    text-align: center;
+    text-align:center;
   }
   h2.well:hover {
      color:yellowgreen;
